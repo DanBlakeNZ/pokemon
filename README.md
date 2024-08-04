@@ -1,4 +1,4 @@
-# Dan Blake - Pokemon App
+# Pokemon App
 
 - `npm install` to install all node_modules.
 - `npm run dev` to start the app.
